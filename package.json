@@ -16,8 +16,8 @@
     "hyperscript-helpers": "^3.0.3",
     "ramda": "^0.28.0",
     "virtual-dom": "^2.1.1",
-    "webpack": "^5.75.0",
-    "webpack-cli": "^5.0.0",
-    "webpack-dev-server": "^4.11.1"
+    "webpack": "^5.105.2",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.3"
   }
 }
